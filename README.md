@@ -7,4 +7,5 @@ A collection of PDF files containing dashboards, pbix files, and xlsx files, eac
 - Data storytelling and effective data visualization.
 
   
-NOTE: Some visualizations (PDFs) do not reflect the work (e.g. Bins & List) as most of the work was done in Power Query Editor.
+### NOTE: 
+Some visualizations (PDFs) do not reflect the work as most of the work was done in Power Query Editor (e.g. Bins & List).
