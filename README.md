@@ -8,4 +8,4 @@ A collection of PDF files containing dashboards, pbix files, and xlsx files, eac
 
   
 ### NOTE: 
-Some visualizations (PDFs) do not reflect the work as most of the work was done in Power Query Editor (e.g. Bins & List).
+Some visualizations do not reflect the work as most of the work was done in Power Query Editor (e.g. Bins & List).
